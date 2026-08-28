@@ -57,5 +57,6 @@ React + Spring 기반으로 전환. 전면 전환의 운영 리스크를 피하�
 실무 프로젝트는 사내 시스템이라 코드를 공개할 수 없습니다.
 이곳에는 개인 작업물만 있으며, 프로젝트 상세는 포트폴리오를 참고해 주세요.
 
-**Portfolio** https://portfolio-git-main-lui9.vercel.app
+**Portfolio** https://portfolio-lui9.vercel.app
 **Email** osm077@naver.com
+portfolio-git-main-lui9는 브랜치 프리뷰 주소라 언제든 사라질 수 있습니다.
